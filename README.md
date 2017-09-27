@@ -1,5 +1,5 @@
 # vue-sell
-Vue.js 高仿饿了么外卖 App 课程源码，课程地址： http://coding.imooc.com/class/74.html
+Vue.js 高仿饿了么外卖 App 课程源码
 
 [项目演示地址](http://vuejssellapp.t.imooc.io/#!/)
 
